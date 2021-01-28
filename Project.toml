@@ -7,6 +7,7 @@ version = "0.1.0"
 KhepriBase = "4cc0fe96-1163-46f3-ba32-de1e65d9548f"
 
 [compat]
+KhepriBase = "0.2"
 julia = "1.5"
 
 [extras]
